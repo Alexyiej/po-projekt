@@ -1,6 +1,5 @@
 import convert as conv
 
-
 # tests
 def test_if_num_not_minus(number):
     assert number >= 0 , "Number must be bigger than 0"
